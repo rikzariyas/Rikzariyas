@@ -1,16 +1,19 @@
-## Hi there 👋
+💫 About Me:
+👋 Hi there!
 
-<!--
-**Rikzariyas/Rikzariyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on a live project as part of my journey into web development.
 
-Here are some ideas to get you started:
+🌱 I’m pursuing a BCA and learning Full Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on web apps, frontend/backend projects, and anything that helps me grow as a developer.
+
+🤔 I’m looking for help with advanced JavaScript, backend frameworks, and deployment.
+
+💬 Ask me about HTML, CSS, JavaScript, or anything related to starting in full stack development.
+
+📫 How to reach me:
+a⚡ fun fact: I learn something new every day by building real projects!
+
+💻 Tech Stack:
+CSS3 HTML5 JavaScript Python C MongoDB MySQL Canva Blender Figma
+
