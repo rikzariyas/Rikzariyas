@@ -42,6 +42,11 @@
   <a href="mailto:rikza.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rikzariyas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rikzariyas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikzariyas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### 💭 Dev Quote
 
 <p align="center">
