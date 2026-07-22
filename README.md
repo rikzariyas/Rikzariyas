@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=865&height=44&lines=Passionate%20About%20Building%20Software;Turning%20coffee%20%E2%98%95%20into%20code%20and%20ideas%20into%20applications." alt="Typing headlines" />
 </p>
 
+# 💫 About Me:
+🔭 I’m currently working on a live project as part of my journey into web development.<br><br>🌱 I’m pursuing a BCA and learning Full Stack Development.<br><br>👯 I’m looking to collaborate on web apps, frontend/backend projects, and anything that helps me grow as a developer.<br><br>🤔 I’m looking for help with advanced JavaScript, backend frameworks, and deployment.<br><br>💬 Ask me about HTML, CSS, JavaScript, or anything related to starting in full stack development.<br><br> ⚡ fun fact: I learn something new every day by building real projects!<br>
+
 ### 🛠️ Tech Stack
 
 <p align="left">
